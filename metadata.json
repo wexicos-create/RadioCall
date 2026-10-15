@@ -1,0 +1,6 @@
+{
+  "name": "AFM Secure",
+  "description": "Offline AM/FM radio frequency messaging and secure voice calls with Opus low-bandwidth optimization and E2EE.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
